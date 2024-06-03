@@ -11,8 +11,6 @@ EduFuture Learning Solutions is launching a new training course, "Fundamentals o
 
 ![Screenshot (53)](https://github.com/Eldar-creator/Fundamentals-of-Cybersecurity/assets/75829903/f0c81c48-5bfc-4ee2-a20b-22bd64843bd1)
 
-# Video description of the work 
-in progress 
 
 # Full presentation 
 
