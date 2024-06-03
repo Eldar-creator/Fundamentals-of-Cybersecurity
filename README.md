@@ -17,9 +17,11 @@ in progress
 # Assingments , quizes and their soluitons , answers
 
 [Quiz.pdf](https://github.com/user-attachments/files/15531407/Quiz.pdf)
+
 [quiz correct answers.pdf](https://github.com/user-attachments/files/15531409/quiz.correct.answers.pdf)
 
 [exam questions.pdf](https://github.com/user-attachments/files/15531411/exam.questions.pdf)
+
 [corrects answers to exam.pdf](https://github.com/user-attachments/files/15531415/corrects.answers.to.exam.pdf)
 
 # Evaluation criteria 
